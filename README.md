@@ -1,4 +1,4 @@
-# Manuale_Javascript
+# Manual Javascript
 
 This is personal manual for Javascript, in italian Language for Javascript
 
